@@ -1,0 +1,3 @@
+# REST API using Python and Flask
+
+The backend of this e-commerce site is built using Flask as the lightweight web framework to create a RESTful API, with Python serving as the primary programming language. SQLAlchemy is utilized for seamless database interactions, supporting SQLite for development and configurable to use PostgreSQL or MySQL for production. User authentication is managed through JWT (JSON Web Tokens) for secure session handling. Additionally, Docker is used for containerization, ensuring consistent environments for development and deployment, while Git facilitates effective version control throughout the project's lifecycle.
